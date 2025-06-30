@@ -1,7 +1,7 @@
 ---
 
 <p align="center">
-    <img src="logo.png" width="480" height="480">
+    <img src="https://files.catbox.moe/7ifqe2.gif" width="40" height="40" />
 </p>
 
 <h1 align="center">
