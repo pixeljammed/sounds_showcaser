@@ -1,0 +1,10 @@
+{
+  "audio": {
+    "folder": "the_rake",
+    "volume_scale": 0.75
+  },
+  "video": {
+    "text_size": 72,
+    "text_color": "#ffffff"
+  }
+}
