@@ -27,7 +27,17 @@ This could be:
 
 
 ## Features
+- [x] Generate multiple mp4s, webms, from your
+- [ ] Make it a CLI program
 - [ ] Resolution setting (ez)
 - [ ] ffmpeg concatenated final video (ez)
 - [ ] More settings like spectrogram display, directory showcase (nawt ez)
 - [ ] Proper error handling (i.e: audio files <0.02sec long)
+
+## Credits
+| Source                                  | Credit                                                        |
+|-----------------------------------------|---------------------------------------------------------------|
+| moviepy                                 | [Zulko + other maintainers](https://github.com/Zulko/moviepy) |
+| ffmpeg                                  | [The FFmpeg community](https://ffmpeg.org/community.html)     |
+| The Rake (sample sound effects in repo) | [RVVZ](https://www.roblox.com/users/29761878/profile)         |
+| Being handsome                          | Me                                                            |
